@@ -1,7 +1,13 @@
 .serie1{
 	color: 	red;
+	text-align: center;
+	font-family: Poppins;
 }
 .serie2{
 	color: 	blue;
+	border: 3px blue dashed;
 }
 
+body{
+	background-image: url("plage.jpg.jpg");
+}
