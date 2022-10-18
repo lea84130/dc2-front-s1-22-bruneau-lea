@@ -298,9 +298,9 @@ nav ul {
     flex-direction: column;
     justify-content: flex-start;
 }
+ 
 
 #banniere_image{
-    visibility: hidden;
     display: none;
 }
 
@@ -319,6 +319,10 @@ nav ul {
         width: 110px;
         float: right;
         margin-left: 15px;
+    }
+
+    #mes_photos{
+        flex-wrap: wrap;
     }
 
 }
