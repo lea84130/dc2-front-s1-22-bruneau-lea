@@ -293,7 +293,7 @@ footer h1
 
 @media all and (max-width: 1024px){
 
-nav ul {
+nav ul{
 
     flex-direction: column;
     justify-content: flex-start;
@@ -304,18 +304,16 @@ nav ul {
     display: none;
 }
 
-  section
-    {
+section{
         flex-direction: column;
     }
     
-    #fleche_bulle
-    {
+#fleche_bulle{
         display: none;
     }
     
-    #photo_zozor img
-    {
+    #photo_zozor img{
+
         width: 110px;
         float: right;
         margin-left: 15px;
