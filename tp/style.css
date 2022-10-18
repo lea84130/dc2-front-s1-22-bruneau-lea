@@ -303,5 +303,23 @@ nav ul {
     visibility: hidden;
     display: none;
 }
- 
+
+  section
+    {
+        flex-direction: column;
+    }
+    
+    #fleche_bulle
+    {
+        display: none;
+    }
+    
+    #photo_zozor img
+    {
+        width: 110px;
+        float: right;
+        margin-left: 15px;
+    }
+
 }
+
