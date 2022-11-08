@@ -309,10 +309,12 @@ nav ul{
 }
 
 section{
+        display: flex;
         flex-direction: column;
 }
 
-p{
+article{
+    text-align: justify;
     display: flex;
     flex-wrap: wrap;
 }
